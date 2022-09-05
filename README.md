@@ -1,6 +1,10 @@
                                                                   EaseIt-DECOR
                                                                   
                                                                   
+
+
+
+
 (Easelt DECOR is an interactive Augmented Reality based iOS application that gives user a visualization of the item they are buying and whether it suits their space. This was an attempt to reduce wrong interior decor purchases from online stores, giving us the sanity of either not going back to return it nor having to waste money) 
 
 
